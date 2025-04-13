@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Navneet | FinTech Product Manager</title>
+  <style>
+    body { margin: 0; font-family: 'Segoe UI', sans-serif; background-color: #f9f9f9; color: #333; }
+    header { background: #0f172a; color: #fff; padding: 4rem 2rem; text-align: center; }
+    header h1 { font-size: 2.5rem; margin-bottom: 0.5rem; }
+    header p { font-size: 1.2rem; max-width: 600px; margin: auto; }
+
+    section { padding: 3rem 2rem; max-width: 1000px; margin: auto; }
+    h2 { color: #0f172a; margin-bottom: 1rem; }
+    .card { background: #fff; border-radius: 12px; padding: 1.5rem; box-shadow: 0 2px 10px rgba(0,0,0,0.05); margin-bottom: 2rem; }
+
+    ul { padding-left: 1.2rem; }
+    li { margin-bottom: 0.5rem; }
+    footer { text-align: center; padding: 2rem; color: #666; font-size: 0.9rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Navneet</h1>
+    <p>FinTech professional with a finance background and product mindset — passionate about solving financial problems through intuitive digital products.</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <div class="card">
+      <p>I started my career in the finance sector, working as a Senior Associate, where I developed a deep understanding of financial workflows and operations. Over time, I realized my passion lies not in the execution of finance itself, but in building better tools and systems for it. This led me to pursue a Product Management course, through which I transitioned my thinking into solving user problems, building efficient solutions, and working cross-functionally to bring ideas to life. My focus is now on the FinTech space, where I can blend my finance experience with product thinking to deliver real impact.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <div class="card">
+      <h3>Optimizing Legacy Software to Reduce Manual Hours</h3>
+      <p><strong>Role:</strong> Product Manager (Course Project)</p>
+      <p><strong>Tools:</strong> Figma, Excel, Google Forms, Miro, Notion</p>
+      <ul>
+        <li>Conducted user interviews with stakeholders to identify bottlenecks in legacy software</li>
+        <li>Mapped workflows and prioritized features using MoSCoW framework</li>
+        <li>Redesigned UI, proposed automation, and delivered a wireframe prototype</li>
+        <li>Achieved ~35% reduction in manual work with improved UX and smoother handoffs</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h3>Personal Finance Tracker App</h3>
+      <p><strong>Role:</strong> Product Owner (Course Project)</p>
+      <p><strong>Tools:</strong> Trello, Figma, Notion</p>
+      <ul>
+        <li>Created a mobile-first personal finance app concept focused on habit-based spending</li>
+        <li>Did competitive analysis, built personas, and mapped key user journeys</li>
+        <li>Designed an intuitive interface with goal-tracking features in Figma</li>
+        <li>Crafted a product pitch and roadmap to showcase MVP viability</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <div class="card">
+      <ul>
+        <li><strong>Product Tools:</strong> Jira, Trello, Figma, Notion, Confluence</li>
+        <li><strong>Finance Knowledge:</strong> Credit analysis, lending operations, Excel modeling</li>
+        <li><strong>Core PM Skills:</strong> User research, feature prioritization, roadmap planning, stakeholder collaboration</li>
+        <li><strong>Domain Focus:</strong> FinTech, Lending, Personal Finance</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <div class="card">
+      <p>Resume, LinkedIn, and email coming soon...</p>
+    </div>
+  </section>
+
+  <footer>
+    &copy; 2025 Navneet. All rights reserved.
+  </footer>
+</body>
+</html>
